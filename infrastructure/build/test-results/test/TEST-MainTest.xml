@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-15T14:32:56" hostname="SEN001740" time="0.022">
+  <properties/>
+  <testcase name="testMain()" classname="MainTest" time="0.022"/>
+  <system-out><![CDATA[Hello world!
+com.admin.catalogo.domain.Category@66982506
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
