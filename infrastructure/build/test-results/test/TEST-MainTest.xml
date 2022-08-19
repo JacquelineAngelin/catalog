@@ -3,7 +3,7 @@
   <properties/>
   <testcase name="testMain()" classname="MainTest" time="0.022"/>
   <system-out><![CDATA[Hello world!
-com.admin.catalogo.domain.Category@66982506
+com.admin.catalog-flix.domain.Category@66982506
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

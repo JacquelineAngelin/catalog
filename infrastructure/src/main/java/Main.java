@@ -1,4 +1,4 @@
-import com.admin.catalogo.application.UseCase;
+import com.admin.catalog-flix.application.UseCase;
 
 public class Main {
     public static void main(String[] args){
