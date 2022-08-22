@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.admin.catalog-flix'
+group 'com.admin.catalog'
 version '1.0-SNAPSHOT'
 
 repositories {

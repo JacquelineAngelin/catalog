@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.admin.catalog.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-22T20:56:54" hostname="SEN001740" time="0.017">
+  <properties/>
+  <testcase name="givenValidParams_whenCallNewCategory_thenInstantiateCategory()" classname="com.admin.catalog.domain.category.CategoryTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,4 +1,4 @@
-rootProject.name = 'catalog-flix'
+rootProject.name = 'catalog'
 include 'domain'
 include 'application'
 include 'infrastructure'
