@@ -1,5 +1,8 @@
 package com.admin.catalog.domain;
 
+import com.admin.catalog.domain.validation.ValidationHandler;
+
+import javax.xml.validation.ValidatorHandler;
 import java.util.Objects;
 
 public abstract class Entity<ID extends Identifier> {
@@ -11,6 +14,7 @@ public abstract class Entity<ID extends Identifier> {
         this.id = id;
     }
 
+    public abstract void validate (ValidationHandler handler);
     public ID getId() {
         return id;
     }
